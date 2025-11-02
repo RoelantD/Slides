@@ -7,5 +7,5 @@ If you have questions about any session or would like me to present one of these
 
 # 2025
 | Date | Event | Resources |  
-| ---------- | ------------- | ------------- |  
+| :--------- | :------------ | :------------ |  
 | October 28 | Techorama     | [Slides]()    |  
