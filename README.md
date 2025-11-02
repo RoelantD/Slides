@@ -6,5 +6,6 @@ Feel free to browse, reference, and reuse the materials (with attribution). I ho
 If you have questions about any session or would like me to present one of these topics again — reach out!
 
 # 2025
+| Date | Event | Resources |  
 | ---------- | ------------- | ------------- |  
 | October 28 | Techorama     | [Slides]()    |  
